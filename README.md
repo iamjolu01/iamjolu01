@@ -4,7 +4,7 @@
 
 I'm currently diving deep into learning new knowledge about web development.
 
-Skills: JS / HTML / CSS
+Skills: JS / HTML / CSS / PHP
 
 - 🔭 I’m currently working on on a new project 
 - 🌱 I’m currently learning NodeJS and ExpressJS 
