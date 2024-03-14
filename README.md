@@ -9,7 +9,7 @@ Skills: JS / HTML / CSS / PHP
 - 🔭 I’m currently working on on a new project 
 - 🌱 I’m currently learning NodeJS and ExpressJS 
 - 😄 Pronouns: He 
-- ⚡ Fun fact: Gwapo 
+- ⚡ Fun fact: Gwapo. Choz
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/iamjolu01)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Iam.Joluzalem)  
